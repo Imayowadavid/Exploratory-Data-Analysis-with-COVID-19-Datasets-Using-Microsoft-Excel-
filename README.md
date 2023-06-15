@@ -32,34 +32,18 @@ Analysis was done using Power Query Editor.
 ![](dashboardcovid19.jpg)
 ***
 **DATA VISUALIZATION**
-![](dashboardcovid19.jpg)
+***
+Dashboard                         
+:-------------------------------:
+![](coviddashboard.jpg) 
 
+ Findings calculation
+ :-------------------------------:
+![](covidfindings.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Data visualization tab created for pivot tables which summarizes;
+Data visualization tab summarizes;
 - Sum of confirmed and death cases
-- Sum of confirmed cases by month and year 
-- Top and Bottom 5 countries with sum of confirmed cases.
-Dashboard tab was created for visualizations according to pivot tables.
+- Sum of confirmed cases by year 
+- Top and Bottom 5 countries with sum of confirmed ,death cases,Death rate.
 
 
