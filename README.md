@@ -1,4 +1,4 @@
-Exploratory Data Analysis Of Global COVID 19 Dataset .
+Exploratory Data Analysis Of Global COVID 19 Datasets.
 Analysis of Covid 19 Datasets that comprises 3 datsets for  Confirmed cases,Death cases, Death rate from year 2020-2022 globally on different ms excel worksheets in an excel workbook .
 Datasets ;Daily time series data
 Power query for Data transformation of data from year (2020-2022) before loading into  Ms.excel workspace
