@@ -1,16 +1,10 @@
 **EXPLORATORY DATA ANALYSIS ON  GLOBAL COVID-19 CASES**.
 ![](covid19.jpg)
 ***
-**INTRODUCTION**
+**Introduction**
 
-This is my first  project. My sole aim is to carry out Exploratory Data Analysis on the Global COVID-19 (2020-2022) datasets. The 3 years (2020-2022) datasets were merged to form a consolidated Table. The Extraction, data cleaning and visualizations were done using Microsoft Excel. This Project file (https://drive.google.com/drive/folders/1ZtvsUQZr3YY51eBzf0Eq9HYy7tp8LlZ3) comprises the daily time series data, charts and summary of the analysis with pivot tables.
+This is my first dashboard project. My sole aim is to carry out Exploratory Data Analysis on the Global COVID-19 (2020-2022) datasets. The 3 years (2020-2022) datasets were merged to form a consolidated Table. The Extraction, data cleaning and visualizations were done using Microsoft Excel. This Project file (https://drive.google.com/drive/folders/1ZtvsUQZr3YY51eBzf0Eq9HYy7tp8LlZ3) comprises the daily time series data, charts and summary of the analysis with pivot tables.
 Datasets (Confirmed, Death, Recovered cases and Consolidated Table).
-
-1. Overview
-2. Datasets (Confirmed, Death, Recovered cases and Consolidated Table) details
-3. Data Preparation
-4. Data Visualization 
-5. Summary of Analysis (Findings
 
 ***
  **Project Objective**
@@ -31,7 +25,7 @@ Analysis was done using Power Query Editor.
 - Tables were named accordingly; Consolidated, Recovered, Death columns , Date columns were created using Text function for corresponding month, year and day. 
 ![](dashboardcovid19.jpg)
 ***
-**DATA VISUALIZATION**
+**Data Visualization**
 ***
 Dashboard                         
 :-------------------------------:
@@ -41,7 +35,7 @@ Dashboard
  :-------------------------------:
 ![](covidfindings.png)
 
-Data visualization tab summarizes;
+This section summarizes;
 - Sum of confirmed and death cases
 - Sum of confirmed cases by year 
 - Top and Bottom 5 countries with sum of confirmed ,death cases,Death rate.
