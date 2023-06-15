@@ -28,11 +28,34 @@ Three time series tables representing the global confirmed cases, recovered case
 Analysis was done using Power Query Editor.
 - Unpivot was done on the date column
 - The three time series tables were merged to form the consolidated table.
-- Tables were named accordingly; Consolidated, Recovered, Death columns , Date columns were created using Text function for corresponding month, year and day.
+- Tables were named accordingly; Consolidated, Recovered, Death columns , Date columns were created using Text function for corresponding month, year and day. 
+![](dashboardcovid19.jpg)
 ***
 **DATA VISUALIZATION**
-***
 ![](dashboardcovid19.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Data visualization tab created for pivot tables which summarizes;
 - Sum of confirmed and death cases
 - Sum of confirmed cases by month and year 
