@@ -1,6 +1,6 @@
 Exploratory Data Analysis Of Global COVID 19 Dataset .
-Analysis of Covid 19 Dashboard that comprises 3 datsets for  Confirmed cases,Death cases, Death rate from year 2020-2022 globally on different ms excel worksheets in an excel workbook .
-Datasets Author : Chimerezie Iwuoha (Linkedln) , @chimeXdata( Twitter)
+Analysis of Covid 19 Datasets that comprises 3 datsets for  Confirmed cases,Death cases, Death rate from year 2020-2022 globally on different ms excel worksheets in an excel workbook .
+Datasets ;Daily time series data
 Power query for Data transformation of data from year (2020-2022) before loading into  Ms.excel workspace
 Pivot Tables was used to create Charts from Consolidated Data created after transformation 
 Basic excel functions ( subtraction, sum) were used for final analysis of confirmed, Death, cases and Death rate from 2020-2022 in different countries.  
