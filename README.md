@@ -40,8 +40,8 @@ This section summarizes;
 - Sum of confirmed cases by year 
 - Top and Bottom 5 countries with sum of confirmed ,death cases,Death rate.
 
-**#####Extended steps carried out during Analysis**##########
-•	Exploratory Data Analysis Of Global COVID 19 Datasets. Analysis of  this global Covid 19 Datasets comprises 3 datsets for Confirmed cases,Death cases and Death rate from year 2020-2022.
+**Extended steps carried out during Analysis**
+***
  
 •	Guides,steps,insights on Datasets used and Dashboard created goes thus; 
 1. (i). Open a fresh/new Ms. excel worksheet so as to import the 3 Datasets used . Data ribbon>Get Data>From File>From workbook> Select multiple items ( click on Confirmed , Recovered, Death then Transform Data; so as to go to Power Query Editor) 
@@ -54,7 +54,7 @@ This section summarizes;
 •	Merge the 3 tables on the L.H.S( Confirmed,Recovered, Death together as I.e Consolidate the Data) Since it's impossible to merge 3 tables together at once,merge the First two(2) Tables(confirmed & Recovered) then merge the lastly merged table with the last table(Death) to create a Consolidated Data. while on the Confirmed table go to Home>Merge Queries(merge queries as New) then Select the other table (Recovered); press Ctrl to select& merge columns( province/state, country/Region, date ) Since the Lat.,Long. are the same then ok. On the L.H.S "Merge 1" Table is created while on the R.H.S , newly created column named "Recovered" was created.. At the "Recovered" column on the R.H.S ( Click the direction icon to unselect "All columns", check "Recovered", uncheck the "original column name as prefix" then ok. Hence newly "Recovered.1" column is created then rename it to "Recovered" Merge the "Merge.1" Table on the L.H.S with the Death Table using the same procedure above then rename the "Death.1" created column as "Death" . Rename the "Merge.1" Table as "ConsolidatedData" Use the Text column Function on date column so as to split the date and create separate columns for day, month,year respectively 
 8. Use Pivot Table to generate every feature on the Dashboard.
 9. You can be creative by applying all the steps above to create a different Dashboard insight or design using the Dataset located on this repository files.
-10. Remember to check the Project File via the link on the **Introduction** tab
+10. Remember to check the complete/ absolute detailed Project File via the link on the **Introduction** tab/section above.
 11. cc:Kindly reach out to me via the contacts provided perhaps you need to get more clarification regarding the project
 
 
