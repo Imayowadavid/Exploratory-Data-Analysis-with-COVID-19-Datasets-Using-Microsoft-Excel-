@@ -3,7 +3,7 @@
 ***
 **Introduction**
 
-This is my first dashboard project. My sole aim is to carry out Exploratory Data Analysis on the Global COVID-19 (2020-2022) datasets. The 3 years (2020-2022) datasets were merged to form a consolidated Table. The Extraction, data cleaning and visualizations were done using Microsoft Excel. This Project file (https://drive.google.com/drive/folders/1ZtvsUQZr3YY51eBzf0Eq9HYy7tp8LlZ3) comprises the daily time series data, charts and summary of the analysis with pivot tables.
+This is my first dashboard project. My sole aim is to carry out Exploratory Data Analysis on the Global COVID-19 (2020-2022) datasets. The 3 years (2020-2022) datasets were merged to form a consolidated Table. The Extraction, data cleaning and visualizations were done using Microsoft Excel. This Project file[ (https://1drv.ms/x/s!Asgiyc23aVGR-B9lk4ziaxDRruBz) one drive or   (https://drive.google.com/drive/folders/1ZtvsUQZr3YY51eBzf0Eq9HYy7tp8LlZ3) ]comprises the daily time series data, charts and summary of the analysis with pivot tables.
 Datasets (Confirmed, Death, Recovered cases and Consolidated Table).
 
 ***
