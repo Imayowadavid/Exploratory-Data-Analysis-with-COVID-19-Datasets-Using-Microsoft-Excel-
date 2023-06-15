@@ -55,6 +55,6 @@ This section summarizes;
 8. Use Pivot Table to generate every feature on the Dashboard.
 9. You can be creative by applying all the steps above to create a different Dashboard insight or design using the Dataset located on this repository files.
 10. Remember to check the complete/ absolute detailed Project File via the link on the **Introduction** tab/section above.
-11. cc:Kindly reach out to me via the contacts provided perhaps you need to get more clarification regarding the project
+11. cc:Kindly reach out to me via the contacts on my github profile page provided perhaps you need to get more clarification regarding the project
 
 
