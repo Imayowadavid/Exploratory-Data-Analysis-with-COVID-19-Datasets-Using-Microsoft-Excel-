@@ -38,7 +38,8 @@ Dashboard
 This section summarizes how Pivot table was used to carry out the following ;
 - Sum of confirmed and death cases
 - Sum of confirmed cases by year 
-- Top and Bottom 5 countries with sum of confirmed ,death cases,Death rate.
+- Top and Bottom 5 countries with sum of confirmed ,death cases
+- Death rate.
 
 **Extended steps carried out during Analysis**
 ***
