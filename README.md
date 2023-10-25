@@ -40,6 +40,8 @@ This section summarizes how Pivot table was used to carry out the following ;
 - Sum of confirmed and cases by year 
 - Top and Bottom 5 countries with sum of confirmed ,death cases
 - Death rate.
+- link to the project dashboard and content below;
+- 
 
 **Extended steps carried out during Analysis**
 ***
